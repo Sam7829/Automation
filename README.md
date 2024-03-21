@@ -1,1 +1,1 @@
-# QaAutomation
+# Automation
